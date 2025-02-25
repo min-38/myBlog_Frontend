@@ -9,7 +9,7 @@ export default function MainPage() {
         <div className="bg-white p-6 shadow-md rounded-lg">
             <div className="items-center ">
                 <div className="space-y-10">
-                    {/* <Profile /> */}
+                    <Profile />
                     <ul>
                         <li><Skills /></li>
                         {/* <li><License /></li> */}
