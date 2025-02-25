@@ -11,7 +11,7 @@ export default function MainPage() {
                 <div className="space-y-10">
                     {/* <Profile /> */}
                     <ul>
-                        {/* <li><Skills /></li> */}
+                        <li><Skills /></li>
                         {/* <li><License /></li> */}
                         {/* <li><WorkExp /></li> */}
                         {/* <li><Activity /></li> */}
